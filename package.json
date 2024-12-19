@@ -9,6 +9,10 @@
   "keywords": [
     "cypress"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:automation9006/javascript-bdd-cypress-webuy-anycar-project.git"
+  },
   "author": "vamshi ponnam",
   "license": "ISC",
   "devDependencies": {
